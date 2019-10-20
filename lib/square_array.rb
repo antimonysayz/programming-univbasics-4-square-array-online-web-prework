@@ -4,6 +4,6 @@ def square_array(array)
   new_array = []
   new_array << array[counter] * array[counter]
   counter += 1
-  return new_array
-end
+  return new_arry
+enda
 end
